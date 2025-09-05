@@ -1,0 +1,3 @@
+# Fråga 3
+
+GitHub är en plats där flera personer kan jobba på samma projekt utan att skriva över varandras arbete och sedan kan man slå ihop det. Du kan även göra en Branch som är som en egen “gren” av projektet där du kan jobba utan att påverka huvudversionen. När du är klar i din branch och vill att ändringarna ska bli en del av huvudprojektet skickar du en pull request. En pull request är som en förfrågan om att slå ihop dina ändringar med huvudprojektet, så att andra du jobbar men kan kontrollera det du har gjort först. Ifall allt ser bra ut så gör man en Merge och det innebär att ändringarna från din branch blir en del av den officiella versionen.
